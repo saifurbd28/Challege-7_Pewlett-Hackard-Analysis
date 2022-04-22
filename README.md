@@ -5,20 +5,13 @@ Pewlett-Hackard company want to estimate how many employees will be retired soon
 
 # Results: 
 ## Deliverable 1: The Number of Retiring Employees by Title
-A) Total 72,458 employees are eligible for retirement (based on unique_titles file).
-B) The details are:
-count	title
-25916	Senior Engineer
-24926	Senior Staff
-9285	Engineer
-7636	Staff
-3603	Technique Leader
-1090	Assistant Engineer
-2	Manager
-![image](https://user-images.githubusercontent.com/100442163/164781744-e9e78e4a-e080-4d3e-bf27-78ce53c41913.png)
+A) Total 72,458 employees are eligible for retirement (based on unique_titles file).![image](https://user-images.githubusercontent.com/100442163/164785288-586df7f5-4f95-4b98-99b2-af3584eb67d7.png)
+
+B) The details are:![image](https://user-images.githubusercontent.com/100442163/164781744-e9e78e4a-e080-4d3e-bf27-78ce53c41913.png)
 
 ## Deliverable 2: The Employees Eligible for the Mentorship Program
-A) Total 499,494 employees are eligible for the mentorship program.
+A) Total 499,494 employees are eligible for the mentorship program.![image](https://user-images.githubusercontent.com/100442163/164785183-c2c9928d-7952-4663-a2ec-f92f768ec91a.png)
+
 
 ## Summary: 
 Question-1: How many roles will need to be filled as the "silver tsunami" begins to make an impact?
